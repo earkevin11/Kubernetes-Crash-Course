@@ -7,7 +7,7 @@ What is Kubernetes?
 
 Key terms to know when learning about Kubernetes (K8s)
 - Containers
-- Nodes
+- Nodes - a Kubernete note is a virtual machine that is part of a cluster.
 - Pod - pods hosts one or more containers. Pods are created and managed by K8s.
 - Image
 - Docker
