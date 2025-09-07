@@ -12,6 +12,7 @@ Key terms to know when learning about Kubernetes (K8s)
 - Image
 - Docker
 - Cluster - a "cluster" is a managed group of compute resources, specifically Azure Virtual Machines (VMs), that run containerized applications using Kubernetes orchestration.
+- Kubectl - is the CLI for Kubernetes and it is how you manage Kubernetes Cluster. 
 
 
 What problem does Kubernestes solve?
