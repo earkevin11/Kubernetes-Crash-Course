@@ -11,6 +11,7 @@ Key terms to know when learning about Kubernetes (K8s)
 - Pod - pods hosts one or more containers. Pods are created and managed by K8s.
 - Image
 - Docker
+- Cluster - a "cluster" is a managed group of compute resources, specifically Azure Virtual Machines (VMs), that run containerized applications using Kubernetes orchestration.
 
 
 What problem does Kubernestes solve?
@@ -18,3 +19,7 @@ What problem does Kubernestes solve?
 
 
 Key benefits: Automation, Scalability, High Availability
+
+
+How do you manager a AKS cluster?
+- You manage AKS cluster via its API server. AKS clusters have a control plane API server that can be publicly accessible.
