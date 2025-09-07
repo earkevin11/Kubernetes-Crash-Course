@@ -8,7 +8,7 @@ What is Kubernetes?
 Key terms to know when learning about Kubernetes (K8s)
 - Containers
 - Nodes
-- Pod
+- Pod - pods hosts one or more containers. Pods are created and managed by K8s.
 - Image
 - Docker
 
