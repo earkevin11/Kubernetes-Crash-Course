@@ -14,6 +14,9 @@ What is Kubernetes?
 2. Physical server
 3. Cloud VM
 - Pod - pods hosts one or more containers. Pods are created and managed by K8s.
+
+<img align="left" width="200" height="350" src="https://github.com/user-attachments/assets/c2cdb631-5768-416f-b8c3-c798409c4030">
+
 - Containers in the same pod:
 - - Share the same IP
 - - Share storage
@@ -25,10 +28,11 @@ What is Kubernetes?
 - Kubectl - is the CLI for Kubernetes and it is how you manage Kubernetes Cluster.
 
 Kubernetes and Container Architecture Visual
-<img width="2392" height="1380" alt="image" src="https://github.com/user-attachments/assets/75873797-9071-46d7-a6de-10d86132ee05" />
+<img width="800" height="1380" alt="image" src="https://github.com/user-attachments/assets/75873797-9071-46d7-a6de-10d86132ee05" />
 
 Kubernetes and Container Architecture Visual
-<img width="716" height="636" alt="image" src="https://github.com/user-attachments/assets/36a04450-3c23-4e79-b964-49a251921add" />
+
+<img width="400" height="636" alt="image" src="https://github.com/user-attachments/assets/36a04450-3c23-4e79-b964-49a251921add" />
 
 
 # Real World Analogy
