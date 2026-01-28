@@ -24,7 +24,10 @@ What is Kubernetes?
 - Cluster - a "cluster" is a managed group of compute resources, specifically Azure Virtual Machines (VMs), that run containerized applications using Kubernetes orchestration.
 - Kubectl - is the CLI for Kubernetes and it is how you manage Kubernetes Cluster.
 
+Kubernetes and Container Architecture Visual
 <img width="2392" height="1380" alt="image" src="https://github.com/user-attachments/assets/75873797-9071-46d7-a6de-10d86132ee05" />
+
+Kubernetes and Container Architecture Visual
 <img width="716" height="636" alt="image" src="https://github.com/user-attachments/assets/36a04450-3c23-4e79-b964-49a251921add" />
 
 
