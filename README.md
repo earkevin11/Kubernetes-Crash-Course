@@ -25,6 +25,8 @@ What is Kubernetes?
 - Kubectl - is the CLI for Kubernetes and it is how you manage Kubernetes Cluster.
 
 <img width="2392" height="1380" alt="image" src="https://github.com/user-attachments/assets/75873797-9071-46d7-a6de-10d86132ee05" />
+<img width="716" height="636" alt="image" src="https://github.com/user-attachments/assets/36a04450-3c23-4e79-b964-49a251921add" />
+
 
 # Real World Analogy
 
